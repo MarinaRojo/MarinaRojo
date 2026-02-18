@@ -53,9 +53,7 @@
 
 <div  align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaRojo&theme=tokyonight)
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinaRojo&show_icons=true&theme=tokyonight)
 </div>
 
 
