@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marina Rojo</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate full stack developer and CS Student</h3>
 
 <p align="left"> <a href="https://twitter.com/redcodegames" target="blank"><img src="https://img.shields.io/twitter/follow/redcodegames?logo=twitter&style=for-the-badge" alt="redcodegames" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 **React Native student**
+- 🌱 **Computer Science Student**
 
 - 🔭 I’m currently working on **LVP**
 
